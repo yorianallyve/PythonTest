@@ -36,3 +36,5 @@ print(vehiculos)
 print(vehiculos['vehiculo_dos'])
 del(vehiculos['vehiculo_tres'])
 print(vehiculos)
+vehiculos['vehiculo_cuatro']=777
+print(vehiculos)
