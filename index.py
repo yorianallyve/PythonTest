@@ -27,3 +27,10 @@ print(colores_asignados)
 print(colores_asignados[1])
 colores_asignados[2] = "Rojo"
 print(colores_asignados[2])
+
+
+#Diccionarios
+vehiculos={'vehiculo_uno':123, 'vehiculo_dos':456, 'vehiculo_tres':789, 'vehiculo_cuatro':192}
+print(vehiculos['vehiculo_cuatro'])
+print(vehiculos)
+print(vehiculos['vehiculo_dos'])
