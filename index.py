@@ -34,3 +34,5 @@ vehiculos={'vehiculo_uno':123, 'vehiculo_dos':456, 'vehiculo_tres':789, 'vehicul
 print(vehiculos['vehiculo_cuatro'])
 print(vehiculos)
 print(vehiculos['vehiculo_dos'])
+del(vehiculos['vehiculo_tres'])
+print(vehiculos)
